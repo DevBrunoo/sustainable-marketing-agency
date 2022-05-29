@@ -1,12 +1,12 @@
 <h1>Built with NodeJS</h1>
-<pre>
+<p>
       This is a blog project from a marketing agency
       with the main focus on digital marketing.
-</pre>
+</p>
 <br>
-<pre>
+<p>
       To access the project you will have to install some libraries and dependencies
-</pre>
+</p>
 <p>To access these libraries and dependencies, type the following commands in your terminal</p>
 <ul>
       <li>npm init</li>
