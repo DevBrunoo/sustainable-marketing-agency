@@ -9,7 +9,7 @@
 <p>To access these libraries and dependencies, type the following commands in your terminal</p>
 <ul>
       <li>npm init</li>
-      <li>npm installation</li>
+      <li>npm install</li>
       <li>npm install ejs</li>
       <li>npm nodemon</li>
 </ul>
