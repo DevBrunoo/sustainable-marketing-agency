@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: white;">
+    <header>
+        <%- include('../navbar/navcss'); %> 
+        <%- include('../navbar/navjs'); %> 
+        <%- include('../navbar/navbaar'); %> 
+    </header>
+    <br>
+    <br>
+    <style>
+        @import url("https://fonts.googleapis.com/css?family=Rubik:700&display=swap");
+
+
+
+button {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: inherit;
+  font-family: inherit;
+}
+button.learn-more {
+  font-weight: 600;
+  color: #382b22;
+  text-transform: uppercase;
+  padding: 1.25em 2em;
+  background: #fff0f0;
+  border: 2px solid #b18597;
+  border-radius: 0.75em;
+  transform-style: preserve-3d;
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+button.learn-more::before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #f9c4d2;
+  border-radius: inherit;
+  box-shadow: 0 0 0 2px #b18597, 0 0.625em 0 0 #ffe3e2;
+  transform: translate3d(0, 0.75em, -1em);
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+button.learn-more:hover {
+  background: #ffe9e9;
+  transform: translate(0, 0.25em);
+}
+button.learn-more:hover::before {
+  box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
+  transform: translate3d(0, 0.5em, -1em);
+}
+button.learn-more:active {
+  background: #ffe9e9;
+  transform: translate(0em, 0.75em);
+}
+button.learn-more:active::before {
+  box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+  transform: translate3d(0, 0, -1em);
+}
+    </style>
+<h1>This is a test page with nothing useful inserted, click on our log to go back to the beginning</h1>
+<h2>
+    Learn more about our creator by clicking on the button that will take you straight to github or linkedin, the choice is yours master.
+</h2>  
+<br>
+<button class="learn-more"><a style="color: black;" href="https://www.linkedin.com/in/how15bybruno/">Linkedin</a></button>
+<button class="learn-more"><a style="color: black;" href="https://github.com/DevBrunoo">Github</a></button>
+<br>
+<br>
+<br>
+<div style="width:100%"><div style="height:0;padding-bottom:41.66666666666667%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/hZZQzvpi9gOIFRPUAr/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<br>
+    <br>
+</section>
+<footer class="rodape">
+<%- include('../navbar/footer') %> 
+</footer>
+</body>
+</html>
+
+
