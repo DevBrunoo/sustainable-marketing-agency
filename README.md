@@ -3,7 +3,6 @@
       This is a blog project from a marketing agency
       with the main focus on digital marketing.
 </p>
-<br>
 <p>
       To access the project you will have to install some libraries and dependencies
 </p>
@@ -14,6 +13,10 @@
       <li>npm install ejs</li>
       <li>npm nodemon</li>
 </ul>
+<br>
+
+<p>Feel free to contact me on any of the social networks available below, I always try to answer everyone as soon as possible</p>
+
 <br>
 
  
