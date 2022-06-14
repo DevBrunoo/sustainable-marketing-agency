@@ -8,10 +8,8 @@
 </p>
 <p>To access these libraries and dependencies, type the following commands in your terminal</p>
 <ul>
-      <li>npm init</li>
-      <li>npm install</li>
-      <li>npm install ejs</li>
-      <li>npm nodemon</li>
+      <li>npm i nodemon</li>
+      <li>npm start</li>
 </ul>
 <br>
 
