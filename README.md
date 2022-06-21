@@ -1,4 +1,4 @@
-<h1>Built with NodeJS</h1>
+<h1>Built with NodeJS</h1>.
 <p>
       This is a blog project from a marketing agency
       with the main focus on digital marketing.
