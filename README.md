@@ -1,19 +1,20 @@
-<h1>Built with NodeJS</h1>.
+<h1>Sustainable Marketing Agency</h1>.
 <p>
-      This is a blog project from a marketing agency
-      with the main focus on digital marketing.
+        This is a blog project about sustainable marketing that seeks to show how the path to sustainability is an ideal thing for tax reduction and great branding.
 </p>
 <p>
-      To access the project you will have to install some libraries and dependencies
+         To access the project you will have to install some libraries and dependencies
 </p>
 <p>To access these libraries and dependencies, type the following commands in your terminal</p>
 <ul>
-      <li>npm i nodemon</li>
-      <li>npm start</li>
+         <li>npm and nodemon</li>
+         <li>npm start or yarn start</li>
 </ul>
 <br>
 
-<p>Feel free to contact me on any of the social networks available below, I always try to answer everyone as soon as possible</p>
+<p>Feel free to contact me on any of the social networks available below, I always try to respond to everyone as soon as possible</p>
+
+<br>
 
 <br>
 
