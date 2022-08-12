@@ -21,5 +21,13 @@
     "nodemon": "^1.19.4"
   },
   "keywords": [],
-  "description": ""
+  "description": "<h1>Sustainable Marketing Agency</h1>. <p>         This is a blog project about sustainable marketing that seeks to show how the path to sustainability is an ideal thing for tax reduction and great branding. </p> <p>          To access the project you will have to install some libraries and dependencies </p> <p>To access these libraries and dependencies, type the following commands in your terminal</p> <ul>          <li>npm and nodemon</li>          <li>npm start or yarn start</li> </ul> <br>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevBrunoo/sustainable-marketing-agency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevBrunoo/sustainable-marketing-agency/issues"
+  },
+  "homepage": "https://github.com/DevBrunoo/sustainable-marketing-agency#readme"
 }
