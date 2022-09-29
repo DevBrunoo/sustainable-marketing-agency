@@ -22,6 +22,10 @@ app.get('/about', (req,res)=>{
     res.render('about.ejs')
 })
 
+app.get('/nome',(req,res)=>{
+    res.render('sobre')
+})
+
 
 //
 
