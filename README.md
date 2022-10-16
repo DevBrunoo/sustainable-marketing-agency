@@ -34,3 +34,10 @@
    
    
   </div>
+
+<div>
+<br>
+<hr>
+  <img style="text-align: center;" src="/download-agencie-node.png" alt="print">
+  <br>
+</div>
